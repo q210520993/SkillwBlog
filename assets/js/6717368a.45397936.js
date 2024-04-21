@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSkillwBlog=self.webpackChunkSkillwBlog||[]).push([[5204],{12:o=>{o.exports=JSON.parse('{"title":"Pouvoir","description":"5 minutes to learn the most important Docusaurus concepts.","slug":"/category/pouvoir","permalink":"/docs/category/pouvoir","navigation":{"next":{"title":"\u4ecb\u7ecd","permalink":"/docs/Pouvoir/\u7b80\u4ecb"}}}')}}]);

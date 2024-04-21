@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSkillwBlog=self.webpackChunkSkillwBlog||[]).push([[1398],{5305:l=>{l.exports=JSON.parse('{"permalink":"/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
